@@ -12,4 +12,11 @@ add_executable(untitled main.cpp
         src/week2/lab2/problem2.cpp
         src/week2/lab2/problem3.cpp
         src/week2/lab2/problem4.cpp
-        src/week2/lab2/problem5.cpp)
+        src/week2/lab2/problem5.cpp
+        src/week2/lab4/problem1.cpp
+        src/week2/lab4/problem2.cpp
+        src/week2/lab4/problem3.cpp
+        src/week2/lab4/problem4.cpp
+        src/week2/lab4/problem5.cpp
+        src/week2/lab4/PROBLEM6.cpp
+        src/week2/lab4/problem7.cpp)
