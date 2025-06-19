@@ -27,4 +27,12 @@ add_executable(untitled main.cpp
         "src/week3/lab 6/problem5.cpp"
         "src/week3/lab 6/problem 6.cpp"
         "src/week3/lab 6/problem7.cpp"
-        "src/week3/lab 6/problem8.cpp")
+        "src/week3/lab 6/problem8.cpp"
+        "src/week3/lab8/problem 1.cpp"
+        src/week3/lab8/problem2.cpp
+        src/week3/lab8/problem3.cpp
+        src/week3/lab8/problem4.cpp
+        src/week3/lab8/problem5.cpp
+        src/week3/lab8/problem6.cpp
+        src/week3/lab8/problem7.cpp
+        src/week3/lab8/problem8.cpp)
